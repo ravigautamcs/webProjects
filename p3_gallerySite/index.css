@@ -1,0 +1,17 @@
+/* body{
+    padding-left: 2.2%;
+} */
+
+img{
+    width: 30%;
+    /* margin: 1.6666%; */
+    margin: calc(10%/6);
+}
+nav{
+    text-transform: uppercase;
+    border-bottom: 1px solid #f1f1ff;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 20px 0px;
+    font-weight: heavy;
+}
